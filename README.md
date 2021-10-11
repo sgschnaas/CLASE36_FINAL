@@ -1,2 +1,2 @@
-# CLASE36_FINAL
-Con uso de la base de datos en Firebase.
+# MovimientoSincronoDelaPelota
+Movimiento de la pelota de forma síncrona
